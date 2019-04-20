@@ -1,0 +1,1 @@
+# vault_policies_to_terraform
